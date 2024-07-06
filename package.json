@@ -1,7 +1,7 @@
 {
-  "name": "unity-purets",
+  "name": "unity-puerts",
   "version": "2.1.0",
-  "description": "unity purets npm package",
+  "description": "unity puerts npm package",
   "main": "index.js",
   "files": [
     "com.tencent.puerts.core"
