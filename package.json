@@ -1,13 +1,12 @@
 {
   "name": "unity-puerts",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "unity puerts npm package",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
     "com.tencent.puerts.core",
-    "index.d.ts",
-    "csharp.d.ts"
+    "index.d.ts"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
